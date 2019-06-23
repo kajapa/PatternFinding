@@ -1,5 +1,6 @@
 package Main;
 
+
 import Shapes.Circle;
 
 import javax.swing.*;
@@ -23,13 +24,19 @@ public class Main extends JFrame {
         super.setResizable(false);
         Circle c= new Circle(width/2,height/2,100,width,height);
         //super.add(trace);
+
         super.add(c);
 
         super.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         super.setVisible(true);
     }
     public static void main(String[] args) throws IOException {
-        new Main();
+       new Main();
+
+
+
+
+
 
 
     }
