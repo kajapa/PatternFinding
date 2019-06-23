@@ -1,0 +1,1 @@
+Generowanie szumu poprzez zmiane kąta nachylenia i długości promienia.
