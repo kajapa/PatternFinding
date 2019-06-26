@@ -1,0 +1,5 @@
+Użyć odchylenia od obliczania promienia i kąta
+Wyświetlanie na wykresie okręgu
+Możliwość dodawania kilku obiektów
+Obliczanie funkcji kosztu najpierw jako odległość wektora
+Funkcje obrotu i nachylenia, tranclacji (afiniczne),skala
