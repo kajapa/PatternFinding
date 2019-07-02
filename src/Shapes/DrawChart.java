@@ -61,8 +61,7 @@ public class DrawChart extends JFrame {
         XYSeriesCollection dataset = new XYSeriesCollection();
         dataset.addSeries(series1);
         dataset.addSeries(series2);
-        System.out.println("Nonise size: "+nonoise.size());
-        System.out.println("Noise size: "+noise.size());
+
         System.out.println("Distance:"+CheckDistance(nonoise.get(0),noise.get(0)));
         return dataset;
     }
